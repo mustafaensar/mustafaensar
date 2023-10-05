@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mustafa Ensar</h1>
 <h3 align="center">Frontend / Blockchain Developer from Dallas TX</h3>
 
-- 🔭 I’m currently working on [USTech LLC](https://ustechacademy.org/)
+- 🔭 I’m working on [USTech LLC](https://ustechacademy.org/)
 
-- 🌱 I’m currently learning **Solidity, Redux**
+- 🌱 Currently learning **Solidity, Redux**
 
 - 👨‍💻 All of my projects are available at [https://www.mustafaensar.com/](https://www.mustafaensar.com/)
 
