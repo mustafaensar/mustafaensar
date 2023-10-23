@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Mustafa Ensar</h1>
 <h3 align="center">Frontend / Blockchain Developer from Dallas TX</h3>
 
-- 🔭 I’m working on [USTech LLC](https://ustechacademy.org/)
+- 🔭 I’m working on [Raindrop Dallas](https://raindropdallas.org/)
 
 - 🌱 Currently learning **Solidity, Redux**
 
 - 👨‍💻 All of my projects are available at [https://www.mustafaensar.com/](https://www.mustafaensar.com/)
 
-- 💬 Ask me about **react, next, blockchain, nft, smart contracts**
+- 💬 Ask me about **React, Next, Blockchain, NFT, Smart Contracts**
 
 - 📫 How to reach me **mustafaensarcekic@gmail.com**
 
