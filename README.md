@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mustafa Ensar</h1>
-<h3 align="center">Frontend Developer</h3>
+<h3 align="center">React Developer</h3>
 
-- 🔭 I’m working on [Raindrop Dallas](https://raindropdallas.org/)
+- 🔭 I’m working on [USTech LLC](https://ustechacademy.org/)
 
 - 🌱 Currently learning **Solidity, Redux**
 
